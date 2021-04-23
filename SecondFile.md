@@ -1,4 +1,5 @@
-## Module 2 Challenge Second Document
+## Markdown Challenge : INFOTC1600 : Digital Systems 
+You are on the SECOND PAGE.
 Want to go back to the README? Click below!
 
 [To the README file!](README.md)
